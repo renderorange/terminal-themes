@@ -1,0 +1,6 @@
+.DS_Store
+scratch
+*.swp
+*.back
+backup/
+.gitconfig
